@@ -1,0 +1,180 @@
+{
+    "status": "SUCCESS",
+    "correlation_key": "d1d61d5f28064151b4b00aabe657f625",
+    "image_type": {
+        "BGColor": [
+            "#FFFFFF",
+            1
+        ],
+        "BGColorNew": [
+            "#F6F6F6",
+            1
+        ]
+    },
+    "meta": {
+        "processing_time": 0.0033740997314453125,
+        "total_time": 0.20882606506347656,
+        "image_download_time": 0.20505619049072266
+    },
+    "image_url": "https://i.pinimg.com/736x/65/ef/52/65ef52b0ec7db57eadf70079b0d370c1--green-bodycon-dress-sweater-dresses.jpg",
+    "mad_id": "359f6ae2-044d-523c-a846-d8df5e534821",
+    "message": "Image Tagged Successfully",
+    "data": [
+        {
+            "category": [
+                "Dresses",
+                0.889
+            ],
+            "location": [
+                0,
+                0,
+                10,
+                10
+            ],
+            "productType": [
+                "dresses",
+                0.889
+            ],
+            "tags": {
+                "fashion_style": [
+                    [
+                        "classic",
+                        0.361
+                    ]
+                ],
+                "Description": [
+                    [
+                        "An everyday-luxe choice in perfectly weighted, this sheath dress is going to your fave pick of the season. Features a stylish cowl. All day everyday stay in style with this wardrobe essential. Light up the room on your next big night out in this 'wow'-worthy dress. Style yours with a fashionable bag and sandals.",
+                        1
+                    ]
+                ],
+                "Title": [
+                    [
+                        "Long sleeve sheath dress",
+                        1
+                    ]
+                ],
+                "color": [
+                    [
+                        "khaki",
+                        0.9375389668886832
+                    ]
+                ],
+                "pattern": [
+                    [
+                        "texture",
+                        0.345
+                    ],
+                    [
+                        "solid",
+                        0.046
+                    ]
+                ],
+                "neckline": [
+                    [
+                        "cowl",
+                        0.684
+                    ]
+                ],
+                "dress_length": [
+                    [
+                        "knee_length",
+                        0.443
+                    ]
+                ],
+                "sleeve_length": [
+                    [
+                        "long_sleeve",
+                        0.558
+                    ]
+                ],
+                "type": [
+                    [
+                        "sheath",
+                        0.909
+                    ]
+                ],
+                "color_hex": [
+                    [
+                        "#787942",
+                        0.9375389668886832
+                    ]
+                ]
+            },
+            "msd_tags": {
+                "Base Color": [
+                    [
+                        "Green",
+                        0.9375389668886832
+                    ]
+                ],
+                "Description": [
+                    [
+                        "An everyday-luxe choice in perfectly weighted, this sheath dress is going to your fave pick of the season. Features a stylish cowl. All day everyday stay in style with this wardrobe essential. Light up the room on your next big night out in this 'wow'-worthy dress. Style yours with a fashionable bag and sandals.",
+                        1
+                    ]
+                ],
+                "Color Hex": [
+                    [
+                        "#6C6A41",
+                        0.9375389668886832
+                    ]
+                ],
+                "Color": [
+                    [
+                        "Khaki",
+                        0.9375389668886832
+                    ]
+                ],
+                "Pattern": [
+                    [
+                        "Texture",
+                        0.345
+                    ],
+                    [
+                        "Solid",
+                        0.046
+                    ]
+                ],
+                "Style & Occasion": [
+                    [
+                        "Classic",
+                        0.361
+                    ]
+                ],
+                "Neckline": [
+                    [
+                        "Cowl",
+                        0.684
+                    ]
+                ],
+                "Title": [
+                    [
+                        "Long sleeve sheath dress",
+                        1
+                    ]
+                ],
+                "Sleeve Length": [
+                    [
+                        "Long Sleeve",
+                        0.558
+                    ]
+                ],
+                "Type": [
+                    [
+                        "Sheath",
+                        0.909
+                    ]
+                ],
+                "Dress Length": [
+                    [
+                        "Knee Length",
+                        0.443
+                    ]
+                ]
+            },
+            "pos": "VVRCYVNGTXhjRmROTTBKSFdsVlZOVlpIVVhsYVJrSlhVbFZhTmxVeFZsTlRhelZHVFZoQ2EwMXRVbEJWYTFwWFRteGtSMUpVYkZGVlZEQTU=",
+            "object_id": "1965_Vera_359f6ae2-044d-523c-a846-d8df5e534821_0"
+        }
+    ]
+}
