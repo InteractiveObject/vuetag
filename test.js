@@ -1,4 +1,4 @@
-const vue = require('./index')
+const vue = require('./lib/index')
 
 console.log(vue.attributes)
 console.log(vue.attributesByCategory("bags"))
