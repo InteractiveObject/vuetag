@@ -1,13 +1,24 @@
 {
-  "name": "vuetag",
-  "version": "1.0.0",
-  "description": "vutag commun lib",
-  "main": "lib/index.js",
+  "name": "@vera-fashion-app/taxonomy",
+  "version": "1.0.1",
+  "description": "vera-app taxonomy ",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/singularity-corp/taxonomy.git"
+  },
+  "keywords": [
+    "vera"
+  ],
   "author": "Younes <younes@interactive-object.com> (http://www.interactive-object.com/)",
   "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/singularity-corp/taxonomy/issues"
+  },
+  "homepage": "https://gitlab.com/singularity-corp/taxonomy#readme",
   "dependencies": {
     "lodash": "^4.17.15"
   }

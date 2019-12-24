@@ -1,6 +1,9 @@
-const vue = require('./lib/index')
+const vera = require('./lib/index')
 
-// console.log(vue.attributes)
-// console.log(vue.attributesByCategory("tops"))
-console.log(vue.attributeValues("footwear", "toe_type"))
+// console.log(vera.attributes)
+// console.log(vera.attributesByCategory("tops"))
+//console.log(vera.attributeValues("footwear", "toe_type"))
 
+
+console.log(vera.getGroupedAttributesByCategory('tops'))
+console.log(vera.getAllAttributesByCategory('tops'))
